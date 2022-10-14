@@ -68,9 +68,9 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '18588343564'
-global.nomorown = '6282114680993'
-global.namebot = 'SanBotz'
-global.nameown = 'SanXd'
+global.nomorown = '6281233284047'
+global.namebot = 'Zynn Store'
+global.nameown = 'Zynn Store'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'SanExde' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282114680993', 'SanXd', true],
+  ['6281233284047', 'Zynn Store', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,12 +138,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SanExde 」' //Main Watermark
-global.wm2 = 'SanExde'
-global.wm3 = '⫹⫺ SanExde'
+global.wm = '                「 Zynn Store 」' //Main Watermark
+global.wm2 = 'Zyynn Store'
+global.wm3 = '⫹⫺ Zynn Store'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By SanXd`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Zynn Store`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 SanXd  あ」'
 
